@@ -23,8 +23,8 @@ The project is organized into several modules, each serving a specific purpose:
    pip install -r requirements.txt
    ```
 3. **Data Setup**
-   -Place your training data in the data/BRATS2015_Training directory.
-   -Place your evaluation data in the data/Evaluation directory.
+   Place your training data in the data/BRATS2015_Training directory.
+   Place your evaluation data in the data/Evaluation directory.
 4. **Run the pipeline**
    ```bash
    python src/pipeline.py
