@@ -1,4 +1,4 @@
-# Brain Tumor Segmentation Project
+# Brain Tumor Segmentation using Deep Learning
 
 ## Overview
 This project focuses on the segmentation of brain tumors using deep learning techniques, specifically the U-Net architecture. The goal is to develop a model capable of accurately identifying and delineating tumors in medical images.
